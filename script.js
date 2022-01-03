@@ -5,7 +5,7 @@
     let innerCard1=document.querySelector(".innerCard1")
   
     console.log(innerCard1)
-    let city="chennai";
+    let city="Hyderabad";
 
 getWeather();
 
