@@ -1,6 +1,6 @@
 # Weather-Report
 
-Weather report for cities all around the world with Search bar
+Weather Report for Cities all around the world with Search bar
 
 #### Live data with interval of 3 hours
 
